@@ -14,6 +14,7 @@ With commitment and especially empathy, I want to be relevant, and make decision
 
 - 📫 How to reach me ...
 https://www.linkedin.com/in/thais-helena-dias/
+
 https://public.tableau.com/app/profile/thais.helena.dias#!/
 <!---
 Thaisdahack/Thaisdahack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
