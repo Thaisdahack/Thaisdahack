@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thaisdahack
+- 👋 Hi, I’m Thais
 
 - 👀 The cure for boredom is curiosity. There is no cure for curiosity.
 Ellen Parr
@@ -10,7 +10,7 @@ With commitment and especially empathy, I want to be relevant, and make decision
 
 ![ciência-de-dadosgit](https://user-images.githubusercontent.com/101371267/169715509-f2b38970-b62b-4bf2-99e7-d64adfb71b6e.jpg)
 
-- 🌱 I’m currently learning Python, MySQL, TensorFlow, Tableau, Streamlit, Pandas, Numpy, scikit-learn, machine learning
+- 🌱 I’m currently learning Python, MySQL, TensorFlow, Tableau,Pandas, Numpy, scikit-learn, Machine Learning, DAX, PowerBI
 
 - 📫 How to reach me ...
 https://www.linkedin.com/in/thais-helena-dias/
