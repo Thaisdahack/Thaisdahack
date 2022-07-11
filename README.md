@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Thais
+- data analyst and business intelligence
 
 - 👀 The cure for boredom is curiosity. There is no cure for curiosity.
 Ellen Parr
