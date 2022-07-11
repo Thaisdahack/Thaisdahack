@@ -1,7 +1,7 @@
-# 👀 The cure for boredom is curiosity. There is no cure for curiosity.
+## 👀 The cure for boredom is curiosity. There is no cure for curiosity.
 ## Ellen Parr
 
-## 👋 Hi, I’m Thais
+# 👋 Hi, I’m Thais
 ## Data Analyst and Business Intelligence
 
 My main focus is to be constantly learning and following the most relevant tools on the market, which allow me to bring significant insights in a multidisciplinary and assertive way in solving business problems.
