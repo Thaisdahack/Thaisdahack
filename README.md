@@ -1,7 +1,7 @@
 # 👀 The cure for boredom is curiosity. There is no cure for curiosity.
-Ellen Parr
+## Ellen Parr
 
-##👋 Hi, I’m Thais
+## 👋 Hi, I’m Thais
 ## Data Analyst and Business Intelligence
 
 My main focus is to be constantly learning and following the most relevant tools on the market, which allow me to bring significant insights in a multidisciplinary and assertive way in solving business problems.
@@ -21,7 +21,7 @@ With commitment and especially empathy, I want to be relevant and make decisions
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 
 
-## I'm learning...
+## I'm on my way...
 
 <img src ="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
 <img src ="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
